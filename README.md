@@ -362,54 +362,6 @@ and a commitment to keeping your equipment operating at peak performance.
 
 </div>
 
-</div>
-</section>
-
-<section id="request">
-<div class="container">
-
-<h2 class="section-title">Request Service</h2>
-
-<div class="form-wrapper">
-
-<form>
-
-<div class="form-row">
-<input type="text" placeholder="Full Name" required>
-<input type="tel" placeholder="Phone Number" required>
-</div>
-
-<div class="form-row">
-<input type="email" placeholder="Email Address">
-<input type="text" placeholder="Company Name">
-</div>
-
-<div class="form-row">
-<select>
-<option>Select Service</option>
-<option>Hydraulic Repair</option>
-<option>Machinery Repair</option>
-<option>Fabrication & Welding</option>
-<option>Preventive Maintenance</option>
-</select>
-</div>
-
-<div class="form-row">
-<textarea rows="6"
-placeholder="Describe your equipment issue or service request"></textarea>
-</div>
-
-<button type="submit">
-Submit Request
-</button>
-
-</form>
-
-</div>
-
-</div>
-</section>
-
 <section id="contact" class="contact">
 
 <h2>Contact Quality Machine</h2>
