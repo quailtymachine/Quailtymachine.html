@@ -1,4 +1,4 @@
-[googlee310ee880011c2f9 2.html](https://github.com/user-attachments/files/28432356/googlee310ee880011c2f9.2.html)# Qualitymachine.html
+Qualitymachine.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
