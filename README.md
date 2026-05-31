@@ -1,4 +1,4 @@
-# Quailtymachine.html
+# Qualitymachine.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
