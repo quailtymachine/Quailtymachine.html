@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- [Uploagoogle-site-verification: googlee310ee880011c2f9.htmlding googlee310ee880011c2f9 2.html…]()
-
+ <meta name="google-site-verification" content="4IB4fnhFbPk6B8dD2dUY3RglbLDDEhrwjlXqe-TGYD4" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
