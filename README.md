@@ -1,8 +1,9 @@
-# Qualitymachine.html
+[googlee310ee880011c2f9 2.html](https://github.com/user-attachments/files/28432356/googlee310ee880011c2f9.2.html)# Qualitymachine.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <meta name="google-site-verification" content="4IB4fnhFbPk6B8dD2dUY3RglbLDDEhrwjlXqe-TGYD4" />
+ [Uploagoogle-site-verification: googlee310ee880011c2f9.htmlding googlee310ee880011c2f9 2.html…]()
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
